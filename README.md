@@ -3,7 +3,7 @@
 
 ## 🌐 Live Demo
 
-[https://todestop429.netlify.app/](https://todestop429.netlify.app/)
+[https://todestop429.netlify.app/](https://todesktop429.netlify.app/)
 
 ---
 
